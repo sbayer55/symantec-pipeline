@@ -1,4 +1,4 @@
-package com.tesseraga
+@Library('symantec-pipeline')
 import com.tesseraga.util.Shell
 
 pipeline {
