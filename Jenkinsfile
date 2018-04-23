@@ -1,5 +1,4 @@
 package com.tesseraga
-
 import com.tesseraga.util.Shell
 
 pipeline {
